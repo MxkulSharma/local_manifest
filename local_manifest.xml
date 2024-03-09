@@ -19,4 +19,6 @@
       
   <project path="hardware/samsung" name="hardware_samsung" remote="Mxkul" revision="fourteen" />
 
+  <project path="vendor/dolby" name="hardware_dolby" remote="Mxkul" revision="main" />
+
 </manifest>
