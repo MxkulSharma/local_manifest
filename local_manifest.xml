@@ -9,7 +9,7 @@
 
   <project path="device/samsung/m52xq" name="Device_Tree" remote="Mxkul" revision="main" />
 
-  <project path="device/samsung/sm7325-common" name="common_Dt" remote="Mxkul" revision="main" />
+  <project path="device/samsung/sm7325-common" name="common_Dt" remote="Mxkul" revision="14-Test" />
     
   <project path="vendor/samsung/m52xq" name="vendor" remote="Mxkul" revision="main" />
 
@@ -19,6 +19,6 @@
       
   <project path="hardware/samsung" name="hardware_samsung" remote="Mxkul" revision="fourteen" />
 
-  <project path="vendor/dolby" name="hardware_dolby" remote="Mxkul" revision="main" />
+  <project path="hardware/dolby" name="hardware_dolby" remote="Mxkul" revision="main" />
 
 </manifest>
