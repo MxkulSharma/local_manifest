@@ -19,8 +19,4 @@
       
   <project path="hardware/samsung" name="hardware_samsung" remote="Mxkul" revision="fourteen" />
 
-  <project path="hardware/dolby" name="hardware_dolby" remote="Mxkul" revision="main" />
-
-  <project path="external/jemalloc_new" name="external_jemalloc_new " remote="Mxkul" revision="13" />
-
 </manifest>
