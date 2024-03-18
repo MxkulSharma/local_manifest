@@ -9,10 +9,10 @@
 
   !-- Removals -->
 	<remove-project name="bionic" />
-    <remove-project name="build/make" />
-    <remove-project name="build/soong" />
-    <remove-project name="system/core" />
-    <remove-project name="external/jemalloc_new" />
+    <remove-project name="build" />
+    <remove-project name="build_soong" />
+    <remove-project name="system_core" />
+    <remove-project name="external_jemalloc_new" />
 
   <project path="device/samsung/m52xq" name="Device_Tree" remote="Mxkul" revision="main" />
 
