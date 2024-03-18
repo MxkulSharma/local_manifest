@@ -7,6 +7,13 @@
     <remote name="Los"
         fetch="https://github.com/LineageOS" />
 
+  !-- Removals -->
+	<remove-project name="bionic" />
+    <remove-project name="build/make" />
+    <remove-project name="build/soong" />
+    <remove-project name="system/core" />
+    <remove-project name="external/jemalloc_new" />
+
   <project path="device/samsung/m52xq" name="Device_Tree" remote="Mxkul" revision="main" />
 
   <project path="device/samsung/sm7325-common" name="common_Dt" remote="Mxkul" revision="derp" />
@@ -18,5 +25,15 @@
   <project path="kernel/samsung/sm7325" name="kernal" remote="Mxkul" revision="lineage-21" />
       
   <project path="hardware/samsung" name="hardware_samsung" remote="Mxkul" revision="fourteen" />
+
+  <project path="bionic" name="bionic" remote="Mxkul" revision="14" />
+
+  <project path="build/make" name="build" remote="Mxkul" revision="14" />
+
+  <project path="build/soong" name="build_soong" remote="Mxkul" revision="14" />
+
+  <project path="system/core" name="system_core" remote="Mxkul" revision="14" />
+
+  <project path="external/jemalloc_new" name="external_jemalloc_new" remote="Mxkul" revision="13" />
 
 </manifest>
