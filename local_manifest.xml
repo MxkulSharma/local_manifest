@@ -9,7 +9,7 @@
 	<remove-project name="build" />
 	<remove-project name="build_soong" />
 	<remove-project name="system_core" />
-	<remove-project name="external_jemalloc_new" />
+	<remove-project name="platform/external/jemalloc_new" />
 	<project path="device/samsung/m52xq" name="Device_Tree" remote="Mxkul" revision="main" />
 	<project path="device/samsung/sm7325-common" name="common_Dt" remote="Mxkul" revision="derp" />
 	<project path="vendor/samsung/m52xq" name="vendor" remote="Mxkul" revision="main" />
