@@ -18,7 +18,5 @@
   <project path="kernel/samsung/sm7325" name="kernal" remote="Mxkul" revision="lineage-21" />
       
   <project path="hardware/samsung" name="hardware_samsung" remote="Mxkul" revision="fourteen" />
-
-  <project path="hardware/lineage/compat" name="hardware_lineage_compat" remote="Mxkul" revision="14" />
-
+      
 </manifest>
