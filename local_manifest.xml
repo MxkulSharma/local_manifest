@@ -17,7 +17,7 @@
 
   <project path="kernel/samsung/sm7325" name="kernal" remote="Mxkul" revision="lineage-21" />
       
-  <project path="hardware/samsung" name="hardware_samsung" remote="Mxkul" revision="fourteen" />
+  <project path="hardware/samsung" name="hardware_samsung" remote="Mxkul" revision="main" />
 
   <project path="hardware/dolby" name="hardware_dolby" remote="Mxkul" revision="A13" />      
 </manifest>
