@@ -15,7 +15,7 @@
 
   <project path="vendor/samsung/sm7325-common" name="common_vendor" remote="Mxkul" revision="main" />
 
-  <project path="kernel/samsung/sm7325" name=" android_device_samsung_sm7325-common" remote="Los" revision="lineage-21" />
+  <project path="kernel/samsung/sm7325" name="android_device_samsung_sm7325-common" remote="Los" revision="lineage-21" />
       
   <project path="hardware/samsung" name="hardware_samsung" remote="Mxkul" revision="main" />
 
